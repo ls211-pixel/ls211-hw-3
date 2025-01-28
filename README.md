@@ -34,7 +34,7 @@ Understanding the patterns of residential electricity consumption is **critical*
 - **Cluster Analysis:** Using the K-means clustering algorithm, the authors segmented households based on physical, demographic, and socio-economic attributes. Silhouette values were used to determine the optimal number of clusters for high-quality groupings.
 - **Environmental Attitude Analysis:** Regression analyses were performed within each cluster to determine the relationship between environmental attitudes and total electricity consumption.
 
-# Statistical Methods
+# Statistical and Mathematical Methods:
 
 This section outlines various statistical methods that can be applied for analyzing data. These techniques help in making sense of the data, drawing insights, and making predictions.
 
